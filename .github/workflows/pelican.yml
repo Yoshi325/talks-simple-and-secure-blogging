@@ -36,7 +36,7 @@ jobs:
     - name: Checkout theme
       uses: actions/checkout@v2
       with:
-        repository: https://github.com/mc-buckets/brutalistpelican.git
+        repository: Parbhat/pelican-blue
         path: theme
         lfs: true
 
