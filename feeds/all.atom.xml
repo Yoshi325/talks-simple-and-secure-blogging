@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>Simple and Secure Blogging</title><link href="https://sasb-talk.yoshi325.dev/" rel="alternate"></link><link href="https://sasb-talk.yoshi325.dev/feeds/all.atom.xml" rel="self"></link><id>https://sasb-talk.yoshi325.dev/</id><updated>2022-09-20T00:00:00-04:00</updated><entry><title>Beginning</title><link href="https://sasb-talk.yoshi325.dev/news/2022/09/20/beginning/" rel="alternate"></link><published>2022-09-20T00:00:00-04:00</published><updated>2022-09-20T00:00:00-04:00</updated><author><name>Charles Yost</name></author><id>tag:sasb-talk.yoshi325.dev,2022-09-20:/news/2022/09/20/beginning/</id><summary type="html">&lt;p class="first last"&gt;Welcome! This is just the beginning.&lt;/p&gt;
+</summary><content type="html">&lt;p&gt;Welcome! This is just the beginning. I plan to add a post for every time I do this talk.&lt;/p&gt;
+&lt;p&gt;‒ Charles&lt;/p&gt;
+</content><category term="News"></category></entry></feed>
